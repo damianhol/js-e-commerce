@@ -276,9 +276,9 @@ button.transparent {
     font-size: 18px;
     color: rgb(12, 158, 12);
     position: absolute;
-    bottom: 14px;
-    right: 140px;
-    top: 330px;
+    bottom: 10%;
+    right: 50%;
+    top: 90%;
 
 }
 
@@ -290,8 +290,8 @@ button.transparent {
     background-color: rgb(116, 243, 127);
     color: #128108;
     position: absolute;
-    top: 323px;
-    right: 100px;
+    top: 88%;
+    right: 38%;
 }
 
 
